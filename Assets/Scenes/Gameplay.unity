@@ -4361,6 +4361,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 36581758777774120, guid: e7d604866e7b4884d88f733e92581c34, type: 3}
+      propertyPath: viewRange
+      value: 113.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 36581758777774120, guid: e7d604866e7b4884d88f733e92581c34, type: 3}
       propertyPath: shootingPoint
       value: 
       objectReference: {fileID: 143100989}
