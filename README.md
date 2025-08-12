@@ -9,4 +9,6 @@ Q - Higher
 E - Lower
 
 Left & Right Arrows - Rotation
-<img width="2732" height="768" alt="image" src="https://github.com/user-attachments/assets/ac3f969f-e64b-4945-81bc-0292df8e599a" />
+
+Screen shot of the Game
+<img width="2732" height="768" alt="image" src="https://github.com/user-attachments/assets/f412a321-4733-474e-97c5-df3fbb4b5a8b" />
